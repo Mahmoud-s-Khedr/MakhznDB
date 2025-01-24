@@ -1,4 +1,7 @@
-    Opening and closing a database
+    Create and delete a database
+    Opening and closing a database 
     Reading and writing data to a database
     Iterating over the full collection of keys and values in a database
+    Some nice options ^_^
     error notification interface
+    
