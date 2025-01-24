@@ -1,0 +1,4 @@
+    Opening and closing a database
+    Reading and writing data to a database
+    Iterating over the full collection of keys and values in a database
+    error notification interface
